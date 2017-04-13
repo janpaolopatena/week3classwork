@@ -1,0 +1,15 @@
+a:hover {
+  background-color: red;
+  text-decoration: line-through;
+}
+a {
+  text-decoration: none;
+}
+button {
+  color: yellow;
+  border: 0;
+  padding: 40px 25px;
+}
+.dope {
+  background-color: purple;
+}
